@@ -1,6 +1,6 @@
 # Movie Explorer - Midterm Project
 
- Project Information
+## Project Information
 
 **Course:** Front-End Development  
 **Project:** Midterm - React SPA Application  
