@@ -6,8 +6,6 @@
 **Project:** Midterm - React SPA Application  
 **Student:** Saken  
 **Date:** March 2026  
-**Grade:** 34 points
-
 
 
 ## 📋 Project Description
