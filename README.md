@@ -1,41 +1,39 @@
 # Movie Explorer - Midterm Project
 
-## 🎬 Project Information
+## Project Information
 
 **Course:** Front-End Development  
 **Project:** Midterm - React SPA Application  
-**Student:** [Your Name]  
+**Student:** Saken 
 **Date:** March 2026  
 **Grade:** 34 points
 
----
+
 
 ## 📋 Project Description
 
 **Movie Explorer** is a comprehensive React Single Page Application (SPA) that allows users to discover, manage, and organize their favorite movies. The application demonstrates mastery of React fundamentals, JavaScript ES6+ features, component architecture, state management, form handling, and dynamic data rendering.
 
----
+
 
 ## ✨ Features
 
 ### Core Functionality
-- 🔍 **Search Movies** - Real-time search by title, director, or genre
-- 🎭 **Filter by Genre** - Filter movies by Drama, Action, Sci-Fi, Crime, Animation, etc.
-- ↕️ **Sort Movies** - Sort by rating, year, or title (ascending/descending)
-- ⭐ **Favorites System** - Add/remove movies from favorites with animated heart
-- ➕ **Add Movies** - Create new movie entries with comprehensive form
-- 🗑️ **Delete Movies** - Remove movies from the collection
-- 📊 **Statistics Dashboard** - View analytics about your movie collection
-- 💫 **Dynamic UI** - Real-time updates based on user interactions
+-  **Search Movies** - Real-time search by title, director, or genre
+-  **Filter by Genre** - Filter movies by Drama, Action, Sci-Fi, Crime, Animation, etc.
+-  **Sort Movies** - Sort by rating, year, or title (ascending/descending)
+-  **Favorites System** - Add/remove movies from favorites with animated heart
+-  **Add Movies** - Create new movie entries with comprehensive form
+-  **Delete Movies** - Remove movies from the collection
+-  **Statistics Dashboard** - View analytics about your movie collection
+-  **Dynamic UI** - Real-time updates based on user interactions
 
 ### User Interface
-- 🎨 Beautiful gradient design with purple theme
-- 🎞️ Hover effects and smooth animations
-- 📱 Fully responsive (desktop, tablet, mobile)
-- ♿ Accessible (ARIA labels, keyboard navigation)
-- 🎯 Clean, intuitive layout
-
----
+-  Beautiful gradient design with purple theme
+-  Hover effects and smooth animations
+-  Fully responsive (desktop, tablet, mobile)
+-  Accessible (ARIA labels, keyboard navigation)
+-  Clean, intuitive layout
 
 ## 🎯 Midterm Requirements Fulfilled
 
@@ -205,7 +203,7 @@ const [showForm, setShowForm] = useState(false)
 - Search filter
 - Multi-criteria sorting
 
----
+
 
 ## 📁 Project Structure
 
@@ -246,7 +244,7 @@ movie-explorer/
 └── README.md
 ```
 
----
+
 
 ## 🚀 How to Run
 
@@ -279,7 +277,7 @@ npm start
 npm run build
 ```
 
----
+
 
 ## 💻 Technologies Used
 
@@ -288,7 +286,7 @@ npm run build
 - **CSS3** - Styling with animations
 - **HTML5** - Semantic markup
 
----
+
 
 ## 🎨 Key Features Demonstration
 
@@ -351,7 +349,7 @@ const handleSort = (sortOption) => {
 };
 ```
 
----
+
 
 ## 🎓 Learning Outcomes
 
@@ -381,13 +379,13 @@ Through this project, I demonstrated understanding of:
    - User feedback (loading, errors, success)
    - Smooth animations and transitions
 
----
+
 
 ## 🐛 Known Issues
 
 None currently. Application runs without errors.
 
----
+
 
 ## 🔮 Future Enhancements
 
@@ -400,7 +398,7 @@ None currently. Application runs without errors.
 - 📤 Export/import movie lists
 - 🎬 Movie trailers integration
 
----
+
 
 ## 📸 Screenshots
 
@@ -416,7 +414,7 @@ None currently. Application runs without errors.
 ### Mobile View
 ![Mobile](screenshots/mobile.png)
 
----
+
 
 ## 📝 Code Quality
 
@@ -428,12 +426,12 @@ None currently. Application runs without errors.
 - ✅ Reusable components
 - ✅ DRY principle followed
 
----
+
 
 ## ✅ Grading Checklist
 
 | Criteria | Points | Status |
-|----------|--------|--------|
+|-|--|--|
 | React setup and structure | 5 | ✅ Complete |
 | Components and JSX | 7 | ✅ Complete |
 | Props, state, and events | 8 | ✅ Complete |
@@ -442,7 +440,7 @@ None currently. Application runs without errors.
 | Styling and code quality | 4 | ✅ Complete |
 | **Total** | **34** | **✅ 34/34** |
 
----
+
 
 ## 👨‍💻 Author
 
@@ -450,13 +448,13 @@ None currently. Application runs without errors.
 **GitHub:** [@Saken225](https://github.com/Saken225)  
 **Email:** [Your Email]
 
----
+
 
 ## 📄 License
 
 This project is created for educational purposes as part of the Front-End Development course.
 
----
+
 
 ## 🙏 Acknowledgments
 
@@ -464,7 +462,7 @@ This project is created for educational purposes as part of the Front-End Develo
 - React documentation for references
 - Placeholder.com for image placeholders
 
----
+
 
 **🎉 Midterm Project Successfully Completed! 🎉**
 
